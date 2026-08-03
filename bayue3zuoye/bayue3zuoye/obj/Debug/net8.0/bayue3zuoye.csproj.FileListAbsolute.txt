@@ -1,0 +1,14 @@
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\bin\Debug\net8.0\bayue3zuoye.exe
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\bin\Debug\net8.0\bayue3zuoye.deps.json
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\bin\Debug\net8.0\bayue3zuoye.runtimeconfig.json
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\bin\Debug\net8.0\bayue3zuoye.dll
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\bin\Debug\net8.0\bayue3zuoye.pdb
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\obj\Debug\net8.0\bayue3zuoye.GeneratedMSBuildEditorConfig.editorconfig
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\obj\Debug\net8.0\bayue3zuoye.AssemblyInfoInputs.cache
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\obj\Debug\net8.0\bayue3zuoye.AssemblyInfo.cs
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\obj\Debug\net8.0\bayue3zuoye.csproj.CoreCompileInputs.cache
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\obj\Debug\net8.0\bayue3zuoye.dll
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\obj\Debug\net8.0\refint\bayue3zuoye.dll
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\obj\Debug\net8.0\bayue3zuoye.pdb
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\obj\Debug\net8.0\bayue3zuoye.genruntimeconfig.cache
+D:\winfrom gc\source\repos\bayue3zuoye\bayue3zuoye\obj\Debug\net8.0\ref\bayue3zuoye.dll

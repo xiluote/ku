@@ -1,0 +1,17 @@
+D:\winfrom gc\source\repos\7.22 1\7.22 1\bin\Debug\net8.0-windows\7.22 1.exe
+D:\winfrom gc\source\repos\7.22 1\7.22 1\bin\Debug\net8.0-windows\7.22 1.deps.json
+D:\winfrom gc\source\repos\7.22 1\7.22 1\bin\Debug\net8.0-windows\7.22 1.runtimeconfig.json
+D:\winfrom gc\source\repos\7.22 1\7.22 1\bin\Debug\net8.0-windows\7.22 1.dll
+D:\winfrom gc\source\repos\7.22 1\7.22 1\bin\Debug\net8.0-windows\7.22 1.pdb
+D:\winfrom gc\source\repos\7.22 1\7.22 1\obj\Debug\net8.0-windows\_7._22_1.Form1.resources
+D:\winfrom gc\source\repos\7.22 1\7.22 1\obj\Debug\net8.0-windows\_7._22_1.Properties.Resources.resources
+D:\winfrom gc\source\repos\7.22 1\7.22 1\obj\Debug\net8.0-windows\7.22 1.csproj.GenerateResource.cache
+D:\winfrom gc\source\repos\7.22 1\7.22 1\obj\Debug\net8.0-windows\7.22 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\winfrom gc\source\repos\7.22 1\7.22 1\obj\Debug\net8.0-windows\7.22 1.AssemblyInfoInputs.cache
+D:\winfrom gc\source\repos\7.22 1\7.22 1\obj\Debug\net8.0-windows\7.22 1.AssemblyInfo.cs
+D:\winfrom gc\source\repos\7.22 1\7.22 1\obj\Debug\net8.0-windows\7.22 1.csproj.CoreCompileInputs.cache
+D:\winfrom gc\source\repos\7.22 1\7.22 1\obj\Debug\net8.0-windows\7.22 1.dll
+D:\winfrom gc\source\repos\7.22 1\7.22 1\obj\Debug\net8.0-windows\refint\7.22 1.dll
+D:\winfrom gc\source\repos\7.22 1\7.22 1\obj\Debug\net8.0-windows\7.22 1.pdb
+D:\winfrom gc\source\repos\7.22 1\7.22 1\obj\Debug\net8.0-windows\7.22 1.genruntimeconfig.cache
+D:\winfrom gc\source\repos\7.22 1\7.22 1\obj\Debug\net8.0-windows\ref\7.22 1.dll
