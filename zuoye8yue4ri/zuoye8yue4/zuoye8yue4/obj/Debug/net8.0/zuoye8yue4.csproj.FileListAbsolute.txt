@@ -1,0 +1,15 @@
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\bin\Debug\net8.0\zuoye8yue4.exe
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\bin\Debug\net8.0\zuoye8yue4.deps.json
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\bin\Debug\net8.0\zuoye8yue4.runtimeconfig.json
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\bin\Debug\net8.0\zuoye8yue4.dll
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\bin\Debug\net8.0\zuoye8yue4.pdb
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\obj\Debug\net8.0\zuoye8yue4.GeneratedMSBuildEditorConfig.editorconfig
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\obj\Debug\net8.0\zuoye8yue4.AssemblyInfoInputs.cache
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\obj\Debug\net8.0\zuoye8yue4.AssemblyInfo.cs
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\obj\Debug\net8.0\zuoye8yue4.csproj.CoreCompileInputs.cache
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\obj\Debug\net8.0\zuoye8yue4.sourcelink.json
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\obj\Debug\net8.0\zuoye8yue4.dll
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\obj\Debug\net8.0\refint\zuoye8yue4.dll
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\obj\Debug\net8.0\zuoye8yue4.pdb
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\obj\Debug\net8.0\zuoye8yue4.genruntimeconfig.cache
+D:\winfrom gc\source\repos\zuoye8yue4\zuoye8yue4\obj\Debug\net8.0\ref\zuoye8yue4.dll

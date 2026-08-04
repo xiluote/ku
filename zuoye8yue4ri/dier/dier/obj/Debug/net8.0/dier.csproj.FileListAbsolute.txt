@@ -1,0 +1,15 @@
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\bin\Debug\net8.0\dier.exe
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\bin\Debug\net8.0\dier.deps.json
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\bin\Debug\net8.0\dier.runtimeconfig.json
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\bin\Debug\net8.0\dier.dll
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\bin\Debug\net8.0\dier.pdb
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\obj\Debug\net8.0\dier.GeneratedMSBuildEditorConfig.editorconfig
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\obj\Debug\net8.0\dier.AssemblyInfoInputs.cache
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\obj\Debug\net8.0\dier.AssemblyInfo.cs
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\obj\Debug\net8.0\dier.csproj.CoreCompileInputs.cache
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\obj\Debug\net8.0\dier.sourcelink.json
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\obj\Debug\net8.0\dier.dll
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\obj\Debug\net8.0\refint\dier.dll
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\obj\Debug\net8.0\dier.pdb
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\obj\Debug\net8.0\dier.genruntimeconfig.cache
+D:\winfrom gc\source\repos\zuoye8yue4ri\dier\dier\obj\Debug\net8.0\ref\dier.dll
