@@ -1,0 +1,15 @@
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\bin\Debug\net8.0\zuoye8yue6ri.exe
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\bin\Debug\net8.0\zuoye8yue6ri.deps.json
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\bin\Debug\net8.0\zuoye8yue6ri.runtimeconfig.json
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\bin\Debug\net8.0\zuoye8yue6ri.dll
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\bin\Debug\net8.0\zuoye8yue6ri.pdb
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\obj\Debug\net8.0\zuoye8yue6ri.GeneratedMSBuildEditorConfig.editorconfig
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\obj\Debug\net8.0\zuoye8yue6ri.AssemblyInfoInputs.cache
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\obj\Debug\net8.0\zuoye8yue6ri.AssemblyInfo.cs
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\obj\Debug\net8.0\zuoye8yue6ri.csproj.CoreCompileInputs.cache
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\obj\Debug\net8.0\zuoye8yue6ri.sourcelink.json
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\obj\Debug\net8.0\zuoye8yue6ri.dll
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\obj\Debug\net8.0\refint\zuoye8yue6ri.dll
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\obj\Debug\net8.0\zuoye8yue6ri.pdb
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\obj\Debug\net8.0\zuoye8yue6ri.genruntimeconfig.cache
+D:\winfrom gc\source\repos\zuoye8yue6ri\zuoye8yue6ri\obj\Debug\net8.0\ref\zuoye8yue6ri.dll
