@@ -1,0 +1,15 @@
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\bin\Debug\net8.0\lianxi8yue7.exe
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\bin\Debug\net8.0\lianxi8yue7.deps.json
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\bin\Debug\net8.0\lianxi8yue7.runtimeconfig.json
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\bin\Debug\net8.0\lianxi8yue7.dll
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\bin\Debug\net8.0\lianxi8yue7.pdb
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\obj\Debug\net8.0\lianxi8yue7.GeneratedMSBuildEditorConfig.editorconfig
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\obj\Debug\net8.0\lianxi8yue7.AssemblyInfoInputs.cache
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\obj\Debug\net8.0\lianxi8yue7.AssemblyInfo.cs
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\obj\Debug\net8.0\lianxi8yue7.csproj.CoreCompileInputs.cache
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\obj\Debug\net8.0\lianxi8yue7.sourcelink.json
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\obj\Debug\net8.0\lianxi8yue7.dll
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\obj\Debug\net8.0\refint\lianxi8yue7.dll
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\obj\Debug\net8.0\lianxi8yue7.pdb
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\obj\Debug\net8.0\lianxi8yue7.genruntimeconfig.cache
+D:\winfrom gc\source\repos\lianxi8yue7\lianxi8yue7\obj\Debug\net8.0\ref\lianxi8yue7.dll

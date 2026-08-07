@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\winfrom gc\\source\\repos\\lianxi8yue7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B55BFDD0-820A-4C47-AAE0-F95DFB7CC1F1}|lianxi8yue7\\lianxi8yue7.csproj|d:\\winfrom gc\\source\\repos\\lianxi8yue7\\lianxi8yue7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55BFDD0-820A-4C47-AAE0-F95DFB7CC1F1}|lianxi8yue7\\lianxi8yue7.csproj|solutionrelative:lianxi8yue7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\winfrom gc\\source\\repos\\lianxi8yue7\\lianxi8yue7\\Program.cs",
+              "RelativeDocumentMoniker": "lianxi8yue7\\Program.cs",
+              "ToolTip": "D:\\winfrom gc\\source\\repos\\lianxi8yue7\\lianxi8yue7\\Program.cs",
+              "RelativeToolTip": "lianxi8yue7\\Program.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAADgvwEBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T03:02:51.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
