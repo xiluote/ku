@@ -100,12 +100,13 @@
             //{
             //    money = money * 0.95;
             //    i++;
+            //    Console.WriteLine($"第{i}月扣完后剩余{money:F2}元");
             //} while (money > 5000);
-            //Console.WriteLine(i);
+            //Console.WriteLine($"可以扣{i}个月");
 
             /**************************************/
             //int tao = 1;
-            //for(int i=1;i<=7;i++)
+            //for(int i=1;i<=6;i++)
             //{
             //    tao = (tao + 1) * 2;
             //}
@@ -117,13 +118,14 @@
             //double sum = 0;
             //for (int i = 1; i < 10; i++)
             //{
-            //    h = h * 0.5 ;
-            //    sum += h ;
+            //    h = h * 0.5;
+            //    sum += h;
             //}
-            //sum = sum * 2+luo;
+            //h = h * 0.5;//最后一次弹起不落下
+            //sum = sum * 2 + luo + h;
             //Console.WriteLine(sum);
-            
-            
+
+
 
 
 
