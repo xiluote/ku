@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "zuoye8yue12ri/1.0.0": {
+        "runtime": {
+          "zuoye8yue12ri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zuoye8yue12ri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
