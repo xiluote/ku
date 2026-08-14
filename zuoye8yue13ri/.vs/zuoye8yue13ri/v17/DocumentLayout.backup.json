@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\winfrom gc\\source\\repos\\zuoye8yue13ri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D07F0CB-439A-4EBA-AE7E-5EBA8A8FF7B3}|zuoye8yue13ri\\zuoye8yue13ri.csproj|d:\\winfrom gc\\source\\repos\\zuoye8yue13ri\\zuoye8yue13ri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D07F0CB-439A-4EBA-AE7E-5EBA8A8FF7B3}|zuoye8yue13ri\\zuoye8yue13ri.csproj|solutionrelative:zuoye8yue13ri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\winfrom gc\\source\\repos\\zuoye8yue13ri\\zuoye8yue13ri\\Program.cs",
+              "RelativeDocumentMoniker": "zuoye8yue13ri\\Program.cs",
+              "ToolTip": "D:\\winfrom gc\\source\\repos\\zuoye8yue13ri\\zuoye8yue13ri\\Program.cs*",
+              "RelativeToolTip": "zuoye8yue13ri\\Program.cs*",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAwKcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T09:56:34.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
