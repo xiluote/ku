@@ -1,0 +1,15 @@
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\obj\Debug\net8.0\zuoye8yue17ri.GeneratedMSBuildEditorConfig.editorconfig
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\obj\Debug\net8.0\zuoye8yue17ri.AssemblyInfoInputs.cache
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\obj\Debug\net8.0\zuoye8yue17ri.AssemblyInfo.cs
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\obj\Debug\net8.0\zuoye8yue17ri.csproj.CoreCompileInputs.cache
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\obj\Debug\net8.0\zuoye8yue17ri.sourcelink.json
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\bin\Debug\net8.0\zuoye8yue17ri.exe
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\bin\Debug\net8.0\zuoye8yue17ri.deps.json
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\bin\Debug\net8.0\zuoye8yue17ri.runtimeconfig.json
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\bin\Debug\net8.0\zuoye8yue17ri.dll
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\bin\Debug\net8.0\zuoye8yue17ri.pdb
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\obj\Debug\net8.0\zuoye8yue17ri.dll
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\obj\Debug\net8.0\refint\zuoye8yue17ri.dll
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\obj\Debug\net8.0\zuoye8yue17ri.pdb
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\obj\Debug\net8.0\zuoye8yue17ri.genruntimeconfig.cache
+D:\winfrom gc\source\repos\zuoye8yue17ri\zuoye8yue17ri\obj\Debug\net8.0\ref\zuoye8yue17ri.dll
