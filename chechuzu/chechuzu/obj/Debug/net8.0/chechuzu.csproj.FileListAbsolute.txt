@@ -1,0 +1,15 @@
+D:\winfrom gc\source\repos\chechuzu\chechuzu\obj\Debug\net8.0\chechuzu.GeneratedMSBuildEditorConfig.editorconfig
+D:\winfrom gc\source\repos\chechuzu\chechuzu\obj\Debug\net8.0\chechuzu.AssemblyInfoInputs.cache
+D:\winfrom gc\source\repos\chechuzu\chechuzu\obj\Debug\net8.0\chechuzu.AssemblyInfo.cs
+D:\winfrom gc\source\repos\chechuzu\chechuzu\obj\Debug\net8.0\chechuzu.csproj.CoreCompileInputs.cache
+D:\winfrom gc\source\repos\chechuzu\chechuzu\obj\Debug\net8.0\chechuzu.sourcelink.json
+D:\winfrom gc\source\repos\chechuzu\chechuzu\bin\Debug\net8.0\chechuzu.exe
+D:\winfrom gc\source\repos\chechuzu\chechuzu\bin\Debug\net8.0\chechuzu.deps.json
+D:\winfrom gc\source\repos\chechuzu\chechuzu\bin\Debug\net8.0\chechuzu.runtimeconfig.json
+D:\winfrom gc\source\repos\chechuzu\chechuzu\bin\Debug\net8.0\chechuzu.dll
+D:\winfrom gc\source\repos\chechuzu\chechuzu\bin\Debug\net8.0\chechuzu.pdb
+D:\winfrom gc\source\repos\chechuzu\chechuzu\obj\Debug\net8.0\chechuzu.dll
+D:\winfrom gc\source\repos\chechuzu\chechuzu\obj\Debug\net8.0\refint\chechuzu.dll
+D:\winfrom gc\source\repos\chechuzu\chechuzu\obj\Debug\net8.0\chechuzu.pdb
+D:\winfrom gc\source\repos\chechuzu\chechuzu\obj\Debug\net8.0\chechuzu.genruntimeconfig.cache
+D:\winfrom gc\source\repos\chechuzu\chechuzu\obj\Debug\net8.0\ref\chechuzu.dll
