@@ -101,5 +101,21 @@ namespace chechuzu
             }
         }
 
+        // 根据id查找用户是否存在
+        public bool SearchOneById(int id)
+        {
+            // 判断存储数据的文件是否存在
+            // 文件不存在---提示
+            if (!File.Exists(this.lujing)) return false;
+
+            // 文件存在===>读文件 ---> 反序列化 List<User>  list            
+            string jsonStr = File.ReadAllText(this.lujing);
+            List<Man> list = JsonSerializer.Deserialize<List<Man>>(jsonStr);
+            // 根据ID查找客户对象===》找不到 ----->提示
+            Man userObj = list.Find(item => item.id == id);
+            if (userObj == null) return false;
+            return true;
+        }
+
     }
 }

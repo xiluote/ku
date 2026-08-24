@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{6ECFA951-A8B3-4D7D-A96D-B149547EB8B6}|chechuzu\\chechuzu.csproj|solutionrelative:chechuzu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6ECFA951-A8B3-4D7D-A96D-B149547EB8B6}|chechuzu\\chechuzu.csproj|d:\\winfrom gc\\source\\repos\\chechuzu\\chechuzu\\rentreturnclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECFA951-A8B3-4D7D-A96D-B149547EB8B6}|chechuzu\\chechuzu.csproj|solutionrelative:chechuzu\\rentreturnclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6ECFA951-A8B3-4D7D-A96D-B149547EB8B6}|chechuzu\\chechuzu.csproj|d:\\winfrom gc\\source\\repos\\chechuzu\\chechuzu\\manguanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6ECFA951-A8B3-4D7D-A96D-B149547EB8B6}|chechuzu\\chechuzu.csproj|solutionrelative:chechuzu\\manguanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class.cs",
               "DocumentMoniker": "D:\\winfrom gc\\source\\repos\\chechuzu\\chechuzu\\Class.cs",
               "RelativeDocumentMoniker": "chechuzu\\Class.cs",
               "ToolTip": "D:\\winfrom gc\\source\\repos\\chechuzu\\chechuzu\\Class.cs",
               "RelativeToolTip": "chechuzu\\Class.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAcwCsAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-20T12:06:36.145Z",
               "IsPinned": true,
@@ -48,16 +52,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "manguanli.cs",
               "DocumentMoniker": "D:\\winfrom gc\\source\\repos\\chechuzu\\chechuzu\\manguanli.cs",
               "RelativeDocumentMoniker": "chechuzu\\manguanli.cs",
               "ToolTip": "D:\\winfrom gc\\source\\repos\\chechuzu\\chechuzu\\manguanli.cs",
               "RelativeToolTip": "chechuzu\\manguanli.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwHAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-23T05:55:09.399Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentReturnClass.cs",
+              "DocumentMoniker": "D:\\winfrom gc\\source\\repos\\chechuzu\\chechuzu\\RentReturnClass.cs",
+              "RelativeDocumentMoniker": "chechuzu\\RentReturnClass.cs",
+              "ToolTip": "D:\\winfrom gc\\source\\repos\\chechuzu\\chechuzu\\RentReturnClass.cs",
+              "RelativeToolTip": "chechuzu\\RentReturnClass.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAmwGUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T10:45:35.122Z",
               "EditorCaption": ""
             },
             {
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "car.json",
               "DocumentMoniker": "D:\\winfrom gc\\source\\repos\\chechuzu\\chechuzu\\bin\\Debug\\net8.0\\car.json",
               "RelativeDocumentMoniker": "chechuzu\\bin\\Debug\\net8.0\\car.json",
@@ -79,13 +96,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "cheguanli.cs",
               "DocumentMoniker": "D:\\winfrom gc\\source\\repos\\chechuzu\\chechuzu\\cheguanli.cs",
               "RelativeDocumentMoniker": "chechuzu\\cheguanli.cs",
               "ToolTip": "D:\\winfrom gc\\source\\repos\\chechuzu\\chechuzu\\cheguanli.cs",
               "RelativeToolTip": "chechuzu\\cheguanli.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAQwFkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-20T12:16:20.892Z",
               "EditorCaption": ""
@@ -98,7 +115,7 @@
               "RelativeDocumentMoniker": "chechuzu\\Program.cs",
               "ToolTip": "D:\\winfrom gc\\source\\repos\\chechuzu\\chechuzu\\Program.cs",
               "RelativeToolTip": "chechuzu\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwCQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-20T10:31:52.982Z",
               "EditorCaption": ""

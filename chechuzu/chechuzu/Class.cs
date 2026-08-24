@@ -50,8 +50,26 @@ namespace chechuzu
             this.shouji = shouji;
         }
 
+    }
 
-
+    // 租还车记录类
+    internal class RentReturn
+    {
+        public int Id { get; set; }
+        public int CarId { get; set; }
+        public int UserId { get; set; }
+        public string RentTime { get; set; }
+        public string ReturnTime { get; set; }
+        public double PayMoney { get; set; }
+        public RentReturn(int Id, int CarId, int UserId, string RentTime, string ReturnTime, double PayMoney)
+        {
+            this.Id = Id;
+            this.CarId = CarId;
+            this.UserId = UserId;
+            this.RentTime = RentTime;
+            this.ReturnTime = ReturnTime;
+            this.PayMoney = PayMoney;
+        }
     }
 
 }

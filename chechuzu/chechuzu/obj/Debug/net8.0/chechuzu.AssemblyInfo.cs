@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chechuzu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59add32c4d22cc5380d59c7568531f35274c1aa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3b2cc8a816ea5ca286fa9dbe9e4156960339564")]
 [assembly: System.Reflection.AssemblyProductAttribute("chechuzu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chechuzu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

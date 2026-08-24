@@ -103,5 +103,45 @@ namespace chechuzu
             if (kongcar == null) Console.WriteLine("当前没有空闲车辆");
             else Console.WriteLine($"id : {kongcar.id} -- 车牌 : {kongcar.card} -- 类型 : {kongcar.king}  -- 时租费 : {kongcar.money} -- 当前状态：空闲");
         }
+
+
+        // 根据id修改车辆状态 方法
+        // 返回多个值 元组  第一个是提示信息，第二个是成功与否的状态
+        public (string, bool) UpdateStatus(int id)
+        {
+            // 不存在====》没有车辆信息，请先添加
+            if (!File.Exists(this.lujing)) return ("暂无车辆！！！", false);
+            // 判断文件是否存在===存在，读取文件，反序列化 ===》根据id查找车辆对象===》找不到则提示
+            string jsonStr = File.ReadAllText(this.lujing);
+            List<Class> cars = JsonSerializer.Deserialize<List<Class>>(jsonStr);
+            // 使用列表的Find 实现查找
+            Class carObj = cars.Find(item => item.id == id);
+            if (carObj == null) return ("没有对应ID的车辆！！！", false);
+            if (!carObj.kongxian) return ("该车辆已被租出！！！", false);
+            // 修改车辆状态
+            carObj.kongxian = false;
+            // 将修改后的 cars列表 序列化 写回文件
+            string resStr = JsonSerializer.Serialize(cars, this.JsonOpt);
+            File.WriteAllText(this.lujing, resStr);
+            return ("租车成功！！！", true);
+        }
+
+        // 修改状态并获取 时租费
+        public double UpAndGetInfo(int id)
+        {
+            // 读文件---》 反序列化 ---》车辆列表 ---》根据id查找---》修改状态 并获取数据返回
+            string jsonStr = File.ReadAllText(this.lujing);
+            List<Class> cars = JsonSerializer.Deserialize<List<Class>>(jsonStr);
+
+            Class carObj = cars.Find(item => item.id == id);
+
+            // 修改车辆状态
+            carObj.kongxian = true;
+            // 将修改后的 cars列表 序列化 写回文件
+            string resStr = JsonSerializer.Serialize(cars, this.JsonOpt);
+            File.WriteAllText(this.lujing, resStr);
+
+            return carObj.money;
+        }
     }
 }

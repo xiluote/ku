@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using Car;
+using System.Diagnostics;
 
 namespace chechuzu
 {
@@ -10,7 +11,7 @@ namespace chechuzu
             string num = "";
             cheguanli CM = new cheguanli();// 实例化车辆管理对象
             manguanli UM = new manguanli();// 实例化客户管理对象
-            //RentReturnClass RRC = new RentReturnClass();// 实例化客户管理对象
+            RentReturnClass RRC = new RentReturnClass();// 实例化客户管理对象
 
 
             while (num != "0")
@@ -26,7 +27,7 @@ namespace chechuzu
                 Console.WriteLine("6：查看所有客户");
                 Console.WriteLine("7：查看某个客户");
                 Console.WriteLine("8：租车");
-                Console.WriteLine("9：换车");
+                Console.WriteLine("9：还车");
                 Console.WriteLine("10：查看所有租车记录");
 
                 //接收要进行的操作的编号
@@ -97,7 +98,7 @@ namespace chechuzu
 
                         break;
 
-
+                    //查看某个客户
                     case "7":
                         Console.WriteLine("请输入查询用户id");
                         int id = int.Parse(Console.ReadLine());
@@ -105,16 +106,25 @@ namespace chechuzu
 
                         break;
 
-
+                    //租车
                     case "8":
-
+                        RRC.RentCar();
                         break;
 
 
+                    //换车
                     case "9":
-
+                        RRC.ReturnCar();
                         break;
 
+                    //查看所有租车记录
+                    case "10":
+                        RRC.SearchAll();
+                        break;
+
+                    default:
+                        Console.WriteLine("输入有误，请重新输入！！！");
+                        break;
                 }
             }
 
