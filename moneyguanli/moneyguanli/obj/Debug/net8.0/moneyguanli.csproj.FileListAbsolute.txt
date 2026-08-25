@@ -1,0 +1,15 @@
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\obj\Debug\net8.0\moneyguanli.GeneratedMSBuildEditorConfig.editorconfig
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\obj\Debug\net8.0\moneyguanli.AssemblyInfoInputs.cache
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\obj\Debug\net8.0\moneyguanli.AssemblyInfo.cs
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\obj\Debug\net8.0\moneyguanli.csproj.CoreCompileInputs.cache
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\obj\Debug\net8.0\moneyguanli.sourcelink.json
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\bin\Debug\net8.0\moneyguanli.exe
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\bin\Debug\net8.0\moneyguanli.deps.json
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\bin\Debug\net8.0\moneyguanli.runtimeconfig.json
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\bin\Debug\net8.0\moneyguanli.dll
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\bin\Debug\net8.0\moneyguanli.pdb
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\obj\Debug\net8.0\moneyguanli.dll
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\obj\Debug\net8.0\refint\moneyguanli.dll
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\obj\Debug\net8.0\moneyguanli.pdb
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\obj\Debug\net8.0\moneyguanli.genruntimeconfig.cache
+D:\winfrom gc\source\repos\moneyguanli\moneyguanli\obj\Debug\net8.0\ref\moneyguanli.dll
