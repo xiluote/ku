@@ -18,3 +18,4 @@ D:\winfrom gc\source\repos\chuangti\lianxi8yue26ri\lianxi8yue26ri\obj\Debug\net8
 D:\winfrom gc\source\repos\chuangti\lianxi8yue26ri\lianxi8yue26ri\obj\Debug\net8.0-windows\lianxi8yue26ri.Properties.Resources.resources
 D:\winfrom gc\source\repos\chuangti\lianxi8yue26ri\lianxi8yue26ri\obj\Debug\net8.0-windows\lianxi8yue26ri.Form3.resources
 D:\winfrom gc\source\repos\chuangti\lianxi8yue26ri\lianxi8yue26ri\obj\Debug\net8.0-windows\lianxi8yue26ri.lanjie.resources
+D:\winfrom gc\source\repos\chuangti\lianxi8yue26ri\lianxi8yue26ri\obj\Debug\net8.0-windows\lianxi8yue26ri.yidong.resources
