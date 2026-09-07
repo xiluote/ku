@@ -1,0 +1,17 @@
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\bin\Debug\net8.0-windows\zuoye9yue7.exe
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\bin\Debug\net8.0-windows\zuoye9yue7.deps.json
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\bin\Debug\net8.0-windows\zuoye9yue7.runtimeconfig.json
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\bin\Debug\net8.0-windows\zuoye9yue7.dll
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\bin\Debug\net8.0-windows\zuoye9yue7.pdb
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\obj\Debug\net8.0-windows\zuoye9yue7.Form1.resources
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\obj\Debug\net8.0-windows\zuoye9yue7.csproj.GenerateResource.cache
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\obj\Debug\net8.0-windows\zuoye9yue7.GeneratedMSBuildEditorConfig.editorconfig
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\obj\Debug\net8.0-windows\zuoye9yue7.AssemblyInfoInputs.cache
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\obj\Debug\net8.0-windows\zuoye9yue7.AssemblyInfo.cs
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\obj\Debug\net8.0-windows\zuoye9yue7.csproj.CoreCompileInputs.cache
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\obj\Debug\net8.0-windows\zuoye9yue7.sourcelink.json
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\obj\Debug\net8.0-windows\zuoye9yue7.dll
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\obj\Debug\net8.0-windows\refint\zuoye9yue7.dll
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\obj\Debug\net8.0-windows\zuoye9yue7.pdb
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\obj\Debug\net8.0-windows\zuoye9yue7.genruntimeconfig.cache
+D:\winfrom gc\source\repos\MYSQL\zuoye9yue7\zuoye9yue7\obj\Debug\net8.0-windows\ref\zuoye9yue7.dll
