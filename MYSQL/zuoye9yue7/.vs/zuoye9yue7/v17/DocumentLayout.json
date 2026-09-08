@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{1F0EBC37-471B-4275-89BE-067BAE000F30}|zuoye9yue7\\zuoye9yue7.csproj|solutionrelative:zuoye9yue7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F0EBC37-471B-4275-89BE-067BAE000F30}|zuoye9yue7\\zuoye9yue7.csproj|d:\\winfrom gc\\source\\repos\\mysql\\zuoye9yue7\\zuoye9yue7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1F0EBC37-471B-4275-89BE-067BAE000F30}|zuoye9yue7\\zuoye9yue7.csproj|D:\\winfrom gc\\source\\repos\\MYSQL\\zuoye9yue7\\zuoye9yue7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F0EBC37-471B-4275-89BE-067BAE000F30}|zuoye9yue7\\zuoye9yue7.csproj|solutionrelative:zuoye9yue7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "zuoye9yue7\\Form1.cs",
               "ToolTip": "D:\\winfrom gc\\source\\repos\\MYSQL\\zuoye9yue7\\zuoye9yue7\\Form1.cs",
               "RelativeToolTip": "zuoye9yue7\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T08:39:14.435Z",
               "EditorCaption": ""
@@ -46,8 +46,7 @@
               "ToolTip": "D:\\winfrom gc\\source\\repos\\MYSQL\\zuoye9yue7\\zuoye9yue7\\Form1.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "zuoye9yue7\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T08:36:51.958Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2026-09-07T08:36:51.958Z"
             }
           ]
         }

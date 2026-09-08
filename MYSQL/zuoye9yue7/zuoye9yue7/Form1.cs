@@ -5,6 +5,7 @@ using System.Windows.Forms;
 
 namespace zuoye9yue7
 {
+    //以下代码功能：绘制一个会动的，显示当前事件的钟表
     public partial class Form1 : Form
     {
         private System.Windows.Forms.Timer timer; // 明确使用 WinForms Timer
@@ -114,6 +115,33 @@ namespace zuoye9yue7
                 {
                     g.DrawString(i.ToString(), numFont, shuBrush, x, y, sf);
                 }
+            }
+
+            //画秒针
+            using (var SecondLine = new Pen(Color.Red, 2))
+            {
+                //半径r乘上小数让画的针不要接触钟表边缘
+                var SecondStartX = Math.Cos((second * 6 + 270) * Math.PI / 180) * r *0.8 + cx;
+                var SecondStartY = Math.Sin((second * 6 + 270) * Math.PI / 180) * r *0.8 + cy;
+                g.DrawLine(SecondLine, (int)SecondStartX, (int)SecondStartY, cx, cy);
+            }
+
+            //画分针
+            using (var SecondLine = new Pen(Color.Blue, 2))
+            {
+                //分针的位置同时受分钟和秒的影响
+                var SecondStartX = Math.Cos((minute * 6.0 + second * 0.1 + 270) * Math.PI / 180) * r * 0.6 + cx;
+                var SecondStartY = Math.Sin((minute * 6.0 + second * 0.1 + 270) * Math.PI / 180) * r * 0.6 + cy;
+                g.DrawLine(SecondLine, (int)SecondStartX, (int)SecondStartY, cx, cy);
+            }
+
+            //画时针
+            using (var SecondLine = new Pen(Color.Black, 2))
+            {
+                //时针的位置同时受小时和分钟的影响
+                var SecondStartX = Math.Cos((hour * 30.0 + minute * 0.5 + 270) * Math.PI / 180) * r * 0.4 + cx;
+                var SecondStartY = Math.Sin((hour * 30.0 + minute * 0.5 + 270) * Math.PI / 180) * r * 0.4 + cy;
+                g.DrawLine(SecondLine, (int)SecondStartX, (int)SecondStartY, cx, cy);
             }
 
         }
