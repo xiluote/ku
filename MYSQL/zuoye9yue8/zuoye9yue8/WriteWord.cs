@@ -66,7 +66,7 @@ namespace zuoye9yue8
         private void Shengzi()
         {
             // 创建所有字字符串
-            string AllWords = "ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789";
+            string AllWords = "ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789qwertyuiopasdfghjklzxcvbnm";
             // 创建随机下标
             Random Rand = new Random();
             int index = Rand.Next(AllWords.Length);
@@ -115,13 +115,12 @@ namespace zuoye9yue8
         {
             if (!isPlaying) return;
             char key = e.KeyChar;
-            if (!char.IsLetterOrDigit(key)) return;
-            string target = char.ToUpper(key).ToString();
+            string qiaozi = key.ToString();
 
             // 查找第一个匹配的 Label 并移除
             foreach (Control ctrl in panel1.Controls)
             {
-                if (ctrl is Label lbl && lbl.Text == target)
+                if (ctrl is Label lbl && lbl.Text == qiaozi)
                 {
                     panel1.Controls.Remove(lbl);
                     lbl.Dispose();
